@@ -400,7 +400,7 @@
   }
 
 /* /* Section ABOUT US */
-  .col- {
+[class*='col-'] {
     align-self: center;
   }
 
